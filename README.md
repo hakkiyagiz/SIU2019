@@ -22,6 +22,6 @@ MIT Lisansı altında saklanmaktadır.
 Eğer bu modelleri akademik amaçlar çerçevesinde yayınlarınızda kullanmak isterseniz, lütfen yukarıda belirtilen yayına atıfta bulununuz.
 If you use this models in an academic publication, please refer to paper.
 
-
+------------
 
 *IEEE 27th Sinyal işleme ve İletişim Uygulamaları Konferansı (IEEE 27th Signal Processing and Communication Application Conference)*
