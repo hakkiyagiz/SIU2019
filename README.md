@@ -8,7 +8,7 @@ This repo is a library of word embedding vectors which used on following paper
 # Temsil Vektörleri (Embeddings)
 | Ön İşlem | Word2Vec | Doc2Vec | FastText | 
 |--|--|--|--|
-| Ham Veri | [İndir](N/A) | [İndir](N/A) | [İndir](http://bit.ly/2Jg7w7C) |
+| Ham Veri | [N/A] | [İndir] | [N/A](http://bit.ly/2Jg7w7C) |
 | NA | [İndir](http://bit.ly/32bz1qv) | [İndir](http://bit.ly/2NEak2I) | [İndir](http://bit.ly/2S0D04t) |
 | DA | [İndir](http://bit.ly/30eD7fF) | [İndir](http://bit.ly/2JpVhEH) | [İndir](http://bit.ly/2L2J383) |
 | NDA | [İndir](http://bit.ly/2NDw4fc) | [İndir](http://bit.ly/326LR9D) | [İndir](http://bit.ly/2L3cSp7) |
